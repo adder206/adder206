@@ -1,7 +1,7 @@
 <div align="center">
 
 # Henry Lee
-### Senior Technical Program Manager · Defense Tech · TS/SCI Cleared
+### Senior Technical Program Manager · Defense Tech · Cleared
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-henrylee206-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/henrylee206)
 [![Email](https://img.shields.io/badge/Email-henrylee206%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:henrylee206@gmail.com)
@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-Operations and technology leader with **20+ years** delivering complex defense programs at the intersection of government, enterprise software, and warfighter outcomes. I've supported programs valued at **$22B+**, managed multi-organization engineering delivery across defense primes and DoD stakeholders, and held an active **TS/SCI clearance** throughout my career.
+Operations and technology leader with **20+ years** delivering complex defense programs at the intersection of government, enterprise software, and warfighter outcomes. I've supported programs valued at **$22B+**, managed multi-organization engineering delivery across defense primes and DoD stakeholders, and held an active **clearance** throughout my career.
 
 I bring a military field-grade officer's strategic judgment to every program I manage — translating mission requirements into operational infrastructure, aligning cross-functional teams, and building toolchains that outlast any single delivery cycle.
 
